@@ -1,0 +1,70 @@
+:root {
+    --dark-bg: #1e0c41;
+    --mid-bg: #4e3b7f;
+    --light-bg: #b3aaff;
+    --purple-text: #9662a7;
+    --purple-highlight: #7f679f;
+}
+
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.App {
+    height: 100vh;
+    background-color: var(--dark-bg);
+    color: white;
+}
+
+.tx-blue {
+    color: var(--mid-bg);
+}
+
+.tx-light-blue {
+    color: var(--light-bg);
+}
+
+.tx-purple {
+    color: var(--purple-text)
+}
+
+.bg-blue {
+    background-color: var(--mid-bg)
+}
+
+.bg-mid-bg {
+    background-color: var(--mid-bg);
+}
+
+.bg-light-blue {
+    background-color: var(--light-bg);
+}
+
+input {
+    accent-color: var(--mid-bg);
+}
+
+.form-control:focus {
+    border-color: var(--mid-bg);
+    box-shadow: 0 0 0 0.2rem var(--purple-highlight) !important;
+}
+
+.logo {
+    height: 80px;
+    width: auto;
+}
+
+.vertical-center {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+}
+
+.scrollable {
+    overflow-y: scroll;
+}
+
+.form-control {
+    padding: 10px !important;
+    /* margin-top: 50px !important; */
+}

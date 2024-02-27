@@ -1,0 +1,16 @@
+.send-notification-header {
+    background-color: var(--light-bg);
+    /* width: 100%; */
+    text-align: center;
+}
+
+#submit-button {
+    background-color: var(--light-bg);
+    color: var(--mid-bg);
+    height: fit-content;
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    margin-left: 50px !important;
+}

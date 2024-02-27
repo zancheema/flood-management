@@ -1,0 +1,8 @@
+.RescueTeam {
+    background-color: var(--mid-bg);
+    height: 100vh;
+}
+
+.card-interior {
+    background-color: var(--dark-bg);
+}

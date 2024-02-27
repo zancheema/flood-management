@@ -1,0 +1,12 @@
+.lighter-card {
+    background-color: var(--light-bg);
+}
+
+.send-notification-button {
+    color: var(--dark-bg);
+}
+
+.drone-divider {
+    height: 1px;
+    background-color: var(--dark-bg);
+}

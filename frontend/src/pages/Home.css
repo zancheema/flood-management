@@ -1,0 +1,25 @@
+.card-interior {
+    background-color: var(--mid-bg);
+}
+
+button {
+    border: none;
+}
+
+#message {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    max-width: 400px;
+}
+
+#hashtag-pill {
+    background-color: var(--light-bg);
+    color: var(--dark-bg);
+    width: fit-content;
+}
+
+.button-link {
+    background-color: white;
+    color: black;
+    width: fit-content;
+}
